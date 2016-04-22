@@ -3,7 +3,7 @@
 ### TEST H3  
   
 * a  
-[Google](http://www.google.co.jp/ "google")
+[Google](http://www.google.co.jp/)
 
 <table>
   <tr>
