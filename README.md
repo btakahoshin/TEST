@@ -1,4 +1,4 @@
 # TEST
 
 * a  
-`http://b`
+<http://www.google.co.jp/>
