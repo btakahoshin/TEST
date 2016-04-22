@@ -2,7 +2,7 @@
 ## TEST H2  
 ### TEST H3  
   
-* a<br>
+* a  
 <a href="http://www.google.co.jp/">http://www.google.co.jp/</a>
 
 <table>
